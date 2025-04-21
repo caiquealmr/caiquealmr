@@ -25,13 +25,26 @@ Apaixonado por tecnologia e soluções criativas.
 
 ## 📈 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiquealmr&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=caiquealmr&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquealmr&theme=tokyonight" />
-</p>
+<div align="center">
+  <table style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td style="padding: 0; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=caiquealmr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" height="195px" />
+      </td>
+      <td style="padding: 0; border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquealmr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" height="195px" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0; border: none;">
+        <img src="https://streak-stats.demolab.com?user=caiquealmr&theme=tokyonight&hide_border=true" height="195px" />
+      </td>
+      <td style="padding: 0; border: none;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiquealmr&theme=tokyonight&hide_border=true" height="195px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📫 Contato
 
@@ -43,4 +56,5 @@ Apaixonado por tecnologia e soluções criativas.
     <img src="https://img.shields.io/badge/-EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
