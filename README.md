@@ -19,8 +19,6 @@ Apaixonado por tecnologia e soluções criativas.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,python,mongodb,git,figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50px" />
 </p>
 
 ## 📈 Estatísticas
