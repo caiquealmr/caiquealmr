@@ -8,8 +8,8 @@
 
 ## Sobre Mim
 
-Tenho 20 anos, sou de Cariacica – ES e atualmente curso **Sistemas de Informação** na **Universidade Vila Velha (UVV)**.  
-Atuo como **freelancer**, desenvolvendo projetos completos em **web e mobile**, com foco em performance, automação e design intuitivo.  
+Tenho 21 anos, sou de Cariacica – ES e atualmente curso **Sistemas de Informação** na **Universidade Vila Velha (UVV)**.  
+Atualmente estagiário na Gerecia de Tecnologia de Porto na Vale, desenvolvendo projetos completos em **web e mobile**, com foco em performance, automação e design intuitivo.  
 Apaixonado por tecnologia e soluções criativas.
 
 ## Projetos em Destaque
