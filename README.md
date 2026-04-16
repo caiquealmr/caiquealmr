@@ -8,9 +8,7 @@
 
 ## Sobre Mim
 
-Tenho 21 anos, sou de Cariacica – ES e atualmente curso **Sistemas de Informação** na **Universidade Vila Velha (UVV)**.  
-Atualmente estagiário na Gerecia de Tecnologia de Porto na Vale, desenvolvendo projetos completos em **web e mobile**, com foco em performance, automação e design intuitivo.  
-Apaixonado por tecnologia e soluções criativas.
+Tenho 21 anos, sou de Cariacica–ES e graduando em Sistemas de Informação pela UVV. Atualmente, sou estagiário na Gerência de Tecnologia de Porto na Vale, onde desenvolvo projetos full-stack (web e mobile) com foco em performance, automação e design intuitivo. Sou um entusiasta de tecnologia movido por soluções criativas.
 
 ## Projetos em Destaque
 
